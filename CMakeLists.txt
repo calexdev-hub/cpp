@@ -7,4 +7,5 @@ add_executable(c__ main.cpp
         variable.cpp
         const.cpp
         namespace.cpp
-        TypedefAndTypeAliases.cpp)
+        TypedefAndTypeAliases.cpp
+        ArithmeticOperators.cpp)
